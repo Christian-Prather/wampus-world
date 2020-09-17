@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Wampus_World.dir/check_true_false.cpp.o  -o Wampus_World 

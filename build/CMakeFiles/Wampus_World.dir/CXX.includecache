@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/christian/Documents/AI/wampus-world/check_true_false.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+iostream
+-
+check_true_false.h
+/home/christian/Documents/AI/wampus-world/check_true_false.h
+
+/home/christian/Documents/AI/wampus-world/check_true_false.h
+vector
+-
+
